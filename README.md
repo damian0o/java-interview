@@ -53,6 +53,7 @@
 * Java annotations
 * How to intruduce Amphibious to codebase using base classes Car and Boat?
 * final keyword
+* List<? super B> VS List<? extends B> where B extends A, C extends B and D extends B
     
 ### Java Memory Model
 * Stack - how can we get stackoverflow exception 
