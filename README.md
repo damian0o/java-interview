@@ -64,12 +64,12 @@
     * What for do we need GC?
     * G1 - why is it awesome?
 
-* Testing libs
-    * JUnit, 
-    * Mockito, 
-    * AssertJ, 
-    * Wiremock
-    * Spock
+### Testing libs
+* JUnit, 
+* Mockito, 
+* AssertJ, 
+* Wiremock
+* Spock
 
 ### Java Collections
 * List
